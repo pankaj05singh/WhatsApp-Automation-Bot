@@ -30,5 +30,19 @@ This script aims to streamline the process of sending messages through WhatsApp 
 3. Set the `message` variable to the desired message you want to send.
 4. Run the script.
 
-   ```bash
-   python whatsapp_automation.py
+## Notes
+
+- Ensure an active internet connection.
+- Script may require adjustments based on changes in WhatsApp Web's layout/functionality.
+
+## Contributing
+
+Contributions are welcome! If you encounter issues or have suggestions for improvements, open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Marketing Demand
+
+The ability to automate WhatsApp messaging offers a significant advantage in marketing strategies. It allows for personalized outreach, targeted communication, and scheduled campaigns. Streamlining message dissemination to multiple contacts enhances efficiency, thereby potentially increasing engagement rates and fostering customer relationships. Businesses can leverage this tool for promotions, notifications, customer support, and more.
