@@ -9,7 +9,6 @@ This Python script automates sending messages via WhatsApp Web, leveraging the S
 - [Usage](#usage)
 - [Notes](#notes)
 - [Contributing](#contributing)
-- [License](#license)
 - [Marketing Demand](#marketing-demand)
 
 ## Introduction
@@ -39,9 +38,6 @@ This script aims to streamline the process of sending messages through WhatsApp 
 
 Contributions are welcome! If you encounter issues or have suggestions for improvements, open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Marketing Demand
 
