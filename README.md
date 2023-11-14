@@ -42,3 +42,8 @@ Contributions are welcome! If you encounter issues or have suggestions for impro
 ## Marketing Demand
 
 The ability to automate WhatsApp messaging offers a significant advantage in marketing strategies. It allows for personalized outreach, targeted communication, and scheduled campaigns. Streamlining message dissemination to multiple contacts enhances efficiency, thereby potentially increasing engagement rates and fostering customer relationships. Businesses can leverage this tool for promotions, notifications, customer support, and more.
+
+## Contact Me
+
+For inquiries or further information about the code, feel free to contact me via email at [pankajsinghrathore2000@gmail.com](mailto:pankajsinghrathore2000@gmail.com).
+
